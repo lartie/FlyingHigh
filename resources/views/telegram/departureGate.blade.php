@@ -1,0 +1,1 @@
+Hey! I just got your gate number - {{ $flight['departure']['gate'] }} at {{ $flight['departure']['iata'] }} airport, {{ $flight['departure']['city'] }}.  I will notify you if the information changes. Have a good trip!

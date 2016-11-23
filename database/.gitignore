@@ -1,0 +1,10 @@
+/migrations/2016_05_22_190748_create_countries_table.php
+/migrations/2016_05_22_191050_create_airports_table.php
+/migrations/2016_05_22_191006_create_cities_table.php
+/migrations/2016_05_11_155732_create_social_networks_user_table.php
+/migrations/2016_05_30_062847_create_google_channels_table.php
+/migrations/2016_05_09_200256_create_users_table.php
+/migrations/2016_05_11_155700_create_social_networks_table.php
+/migrations/2016_05_03_082655_create_magtu_users_table.php
+*.sqlite
+/migrations/2016_06_08_180304_create_google_tokens_table.php

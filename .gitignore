@@ -1,0 +1,15 @@
+/app/Http/Controllers/TestController.php
+/config/flyinghigh.php
+/public/font
+/public/js
+/public/css
+/public/img
+/.idea
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+.env
+/tests/MagtuAPITest.php
+Homestead.json
+/config/digimedbot.php

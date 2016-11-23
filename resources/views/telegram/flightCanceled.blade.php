@@ -1,0 +1,1 @@
+Your flight from {{ $flight['departure']['city'] }} ({{ $flight['departure']['iata'] }}) to {{ $flight['arrival']['city'] }} ({{ $flight['arrival']['iata'] }}) has been canceled.
