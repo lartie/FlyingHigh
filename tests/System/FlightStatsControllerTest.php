@@ -1,10 +1,4 @@
 <?php
-/**
- * Copyright (c) FlyingHigh - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Artemy B. <artemy.be@gmail.com>, 13.9.2016
- */
 
 use GuzzleHttp\Client;
 use Illuminate\Foundation\Testing\WithoutMiddleware;

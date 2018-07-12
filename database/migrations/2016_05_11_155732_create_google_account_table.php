@@ -1,10 +1,4 @@
 <?php
-/**
- * Copyright (c) FlyingHigh - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Artemy B. <artemy.be@gmail.com>, 19.11.2016
- */
 
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;

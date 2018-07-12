@@ -45,6 +45,6 @@ php artisan airports:install
 
 * Команды и токен бота находятся в конфиге flyinghigh.php
 
-## Обратная связь 
+## License
 
-Website: https://artie.su/
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.

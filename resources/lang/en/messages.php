@@ -1,10 +1,4 @@
 <?php
-/**
- * Copyright (c) FlyingHigh - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Artemy B. <artemy.be@gmail.com>, 13.11.2016
- */
 
 return [
     'help' => 'If you have any questions about my work, please feel free to contact my creators. Also you can see the list of your flights or disconnect your Google account from me, so I will stop sending you notifications about your flights.',
